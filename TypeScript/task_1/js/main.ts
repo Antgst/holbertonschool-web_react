@@ -16,4 +16,5 @@ const teacher3: Teacher = {
     contract: true,
 };
 
+console.log('TEST T1');
 console.log(teacher3);
